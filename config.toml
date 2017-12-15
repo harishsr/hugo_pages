@@ -1,5 +1,5 @@
 theme = "dream"
-baseURL = "/hugo_pages"
+baseURL = "/hugo"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "My New Hugo Site"
