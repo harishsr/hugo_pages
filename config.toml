@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en" // <html lang="en">
-defaultContentLanguage = "en" // English i18n
-title = "My New Hugo Site"
 theme = "dream"
+baseURL = "/hugo_pages"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "My New Hugo Site"
