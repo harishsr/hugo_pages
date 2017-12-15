@@ -1,4 +1,5 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
+languageCode = "en-us" // <html lang="en">
+defaultContentLanguage = "en" // English i18n
 title = "My New Hugo Site"
 theme = "dream"
