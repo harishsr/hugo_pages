@@ -1,5 +1,17 @@
-theme = "dream"
-baseURL = "/hugo"
+baseURL = "https://hsr-tiny_projects.gitlab.io/hugo"
+contentdir    = "content"
+layoutdir     = "layouts"
+publishdir    = "public"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "My New Hugo Site"
+theme = "ananke"
+
+[params]
+  rss = false
+  comments = false
+
+[author]
+  name = "Harish Ramachandran"
+  email = "harish@gitlab.com"
+  gitlab = "harishsr"
