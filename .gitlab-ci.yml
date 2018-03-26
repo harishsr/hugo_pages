@@ -1,6 +1,6 @@
 image: publysher/hugo
 
-spages:
+pages:
   script:
   - hugo
   artifacts:
