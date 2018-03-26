@@ -1,6 +1,6 @@
 ---
 title: "My First Post"
-tags: ["new", "post"]
+author: "Harish Ramachandran"
 ---
 Let's see what happens here!
 
